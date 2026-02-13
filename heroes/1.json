@@ -1,0 +1,21 @@
+{
+  "id": 1,
+  "name": "Tigreal",
+  "display_name": "Tigreal",
+  "role": "tank",
+  "specialty": "Crowd Control",
+  "difficulty": "easy",
+  "counters": [15, 23, 45],
+  "countered_by": [8, 12, 34],
+  "synergy": [5, 18, 22],
+  "items": {
+    "core": ["Warrior Boots", "Cursed Helmet", "Athena's Shield"],
+    "situational": ["Immortality", "Blade Armor"]
+  },
+  "spells": ["Flicker", "Vengeance"],
+  "emblems": ["Tank", "Support"],
+  "tips": "Use ultimate to engage. Protect your marksman.",
+  "tier": "A",
+  "win_rate": 51.2,
+  "pick_rate": 8.5
+}
