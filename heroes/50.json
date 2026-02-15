@@ -1,0 +1,21 @@
+{
+  "id": 38,
+  "name": "Zhask",
+  "display_name": "Zhask",
+  "role": "Mage",
+  "specialty": "Poke/Control",
+  "difficulty": "beginner",
+  "counters": [20, 104, 50, 124, 111, 18, 43, 115],
+  "countered_by": [4, 69, 83, 24, 97, 3, 109, 8],
+  "synergy": [93, 124, 64, 105],
+  "items": {
+    "core": ["Warrior Boots", "Cursed Helmet", "Athena's Shield"],
+    "situational": ["Immortality", "Blade Armor"]
+  },
+  "spells": ["Flicker", "Flameshot", "Purify"],
+  "emblems": ["Mage"],
+  "tips": "Use ultimate to engage. Protect your marksman.",
+  "tier": "A",
+  "win_rate": 51.2,
+  "pick_rate": 1.96
+}
