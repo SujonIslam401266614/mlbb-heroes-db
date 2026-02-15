@@ -1,1 +1,0 @@
-# mlbb-heroes-db
